@@ -24,8 +24,8 @@
     
     .items {
         display: grid;
-        grid-template-columns: repeat(5, 1fr);
-        padding: 40px 40px;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 60px 60px;
         grid-column-gap: 30px;
         grid-row-gap: 30px;
         background-color: rgb(130, 235, 194, 0.6);
